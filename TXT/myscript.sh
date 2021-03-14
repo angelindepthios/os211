@@ -1,5 +1,5 @@
 #!/bin/bash
-# Cicak bin Kadal
+# Angelin Depthios
 # Tue 13 Oct 2020 10:37:14 AM WIB
 
 FILES="my*.txt my*.sh"
