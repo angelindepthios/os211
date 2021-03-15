@@ -3,7 +3,7 @@
 # https://www.youtube.com/watch?v=KAXK07ni9gU
 
 # This free document is distributed in the hope that it will be 
-# useful, but WITHOUT ANY WARRANTY; without even the implied 
+# useful, but WITHOUT ANY WARRANTY; without even the implied
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 # REV03 Sun 14 Mar 18:21:27 WIB 2021
