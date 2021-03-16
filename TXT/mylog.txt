@@ -49,3 +49,5 @@ ZCZC W02 20 L18 Assignment #8
 ZCZC W02 10 L19 Assignment #9
 ZCZC W02 20 L20 Assignment #10 or more.
 ZCZC W02 5 L01 SCELE related
+ZCZC W02 40 L21 study, etc.
+ZCZC W02 55 L26 Movie: relax, etc.
