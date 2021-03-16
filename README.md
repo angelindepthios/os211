@@ -1,7 +1,7 @@
 # os211
 Operating Systems 2021-1
 
-[Log](https://angelindepthios.github.io/os211/TXT/mylog.txt) [rank](https://angelindepthios.github.io/os211/TXT/myrank.txt)
+[Log](https://angelindepthios.github.io/os211/TXT/mylog.txt) [Top 10 rank](https://angelindepthios.github.io/os211/TXT/myrank.txt) [GitHub Page](https://github.com/angelindepthios/os211)
 
 # TOP 10 per Week
 
