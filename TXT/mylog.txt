@@ -51,3 +51,18 @@ ZCZC W02 20 L20 Assignment #10 or more.
 ZCZC W02 5 L01 SCELE related
 ZCZC W02 40 L21 study, etc.
 ZCZC W02 55 L26 Movie: relax, etc.
+ZCZC W03 80 L02 ZOOM related
+ZCZC W03 18 L06 Reading Slide
+ZCZC W02 60 L05 GSGS related
+ZCZC W02 10 L01 SCELE related
+ZCZC W02 20 L09 AsDos: asking, etc.
+ZCZC W02 20 L11 Assignment #1
+ZCZC W02 11 L12 Assignment #2
+ZCZC W02 10 L13 Assignment #3
+ZCZC W02 15 L14 Assignment #4
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 10 L16 Assignment #6
+ZCZC W02 10 L17 Assignment #7
+ZCZC W02 17 L18 Assignment #8
+ZCZC W02 16 L19 Assignment #9
+ZCZC W02 20 L20 Assignment #10 or more.
