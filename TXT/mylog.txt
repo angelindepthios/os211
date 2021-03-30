@@ -72,3 +72,4 @@ ZCZC W04 30 L10 Assignment (General)
 ZCZC W04 10 L09 AsDos: asking, etc.
 ZCZC W04 40 L25 C-language: study, etc.
 ZCZC W04 20 L22 YouTube: study, etc.
+ZCZC W04 10 L01 SCELE related
