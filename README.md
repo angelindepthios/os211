@@ -12,3 +12,5 @@ Operating Systems 2021-1
 [Week 3](https://angelindepthios.github.io/os211/W03/)
 
 [Week 4](https://angelindepthios.github.io/os211/W04/)
+
+[Week 5](https://angelindepthios.github.io/os211/W05/)
