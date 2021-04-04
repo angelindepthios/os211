@@ -76,3 +76,6 @@ ZCZC W04 10 L01 SCELE related
 ZCZC W05 80 L02 ZOOM related
 ZCZC W05 30 L06 Reading Slide
 ZCZC W05 10 L01 SCELE related
+ZCZC W05 10 L09 AsDos: asking, etc.
+ZCZC W05 60 L20 Assignment #10 or more.
+ZCZC W05 35 L21 study, etc.
