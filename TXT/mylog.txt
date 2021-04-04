@@ -79,3 +79,4 @@ ZCZC W05 10 L01 SCELE related
 ZCZC W05 10 L09 AsDos: asking, etc.
 ZCZC W05 60 L20 Assignment #10 or more.
 ZCZC W05 35 L21 study, etc.
+ZCZC W05 20 L99 Other
