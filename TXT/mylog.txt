@@ -94,3 +94,9 @@ ZCZC W06 10 L16 Assignment #6
 ZCZC W06 10 L17 Assignment #7
 ZCZC W06 17 L18 Assignment #8
 ZCZC W06 16 L19 Assignment #9
+ZCZC W07 3 L01 SCELE related
+ZCZC W07 80 L02 ZOOM related
+ZCZC W07 40 L10 Assignment (General)
+ZCZC W07 10 L09 AsDos: asking, etc.
+ZCZC W07 20 L22 YouTube: study, etc.
+ZCZC W07 10 L01 SCELE related
