@@ -100,3 +100,8 @@ ZCZC W07 40 L10 Assignment (General)
 ZCZC W07 10 L09 AsDos: asking, etc.
 ZCZC W07 20 L22 YouTube: study, etc.
 ZCZC W07 10 L01 SCELE related
+ZCZC W08 3 L01 SCELE related
+ZCZC W08 80 L02 ZOOM related
+ZCZC W08 60 L10 Assignment (General)
+ZCZC W08 30 L22 YouTube: study, etc.
+ZCZC W08 5 L01 SCELE related
